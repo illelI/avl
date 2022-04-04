@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1643572956 source:c:\users\admin\documents\codeblocks\avlmoj\main.cpp
+	<iostream>
+	<fstream>
+
+1643481033 source:c:\users\admin\documents\codeblocks\avlmoj\avl_liczby.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<ctime>
+
+1643807553 source:c:\users\admin\documents\codeblocks\avlmoj\slownik.cpp
+	<iostream>
+	<fstream>
+	<bits/stdc++.h>
+
